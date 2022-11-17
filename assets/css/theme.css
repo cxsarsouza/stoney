@@ -2158,6 +2158,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 .div-mundo{
    display: flex;
+   justify-content: center;
 }
 
 @media (max-width: 768px) {
